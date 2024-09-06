@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henrique Gonçalves
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning system development
+- 🌱 I’m currently learning System Development
 
 
 <!---
