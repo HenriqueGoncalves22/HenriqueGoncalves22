@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Henrique Gonçalves
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning System Development
+# Henrique Gonçalves
 
+## 🎓Formação
+- Formado no curso técnico de Desenvolvimento de Sistemas pela ETEC Horácio Augusto da Silveira.
 
-<!---
-HenriqueGoncalves22/HenriqueGoncalves22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📚 Constante Aprendizado
+- Sempre em busca de aprender novas tecnologias e aprofundar meus conhecimentos em linguagens de programação e suas ferramentas.
+
+## 💻 Linguagens
+- Java, C#, C, Javascript e SQL.
+- Tenho familiariadade com IDEs como VS Code, Visual Studio, IntelliJ IDEA e SQL Server. 
