@@ -6,6 +6,11 @@
 ## 📚 Constante Aprendizado
 - Sempre em busca de aprender novas tecnologias e aprofundar meus conhecimentos em linguagens de programação e suas ferramentas.
 
-## 💻 Linguagens
-- Java, C#, C, Javascript e SQL.
-- Tenho familiariadade com IDEs como VS Code, Visual Studio, IntelliJ IDEA e SQL Server. 
+## 💻 Principais linguagens
+![HenriqueGoncalves22's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueGoncalves22&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
+## 📊 Estatísticas
+![HenriqueGoncalves22's Stats](https://github-readme-stats.vercel.app/api?username=HenriqueGoncalves22&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+![HenriqueGoncalves22's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HenriqueGoncalves22&theme=dark&hide_border=false)
+
