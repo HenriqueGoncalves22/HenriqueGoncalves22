@@ -2,7 +2,7 @@
 
 ## 🎓Formação
 - Formado no curso técnico de Desenvolvimento de Sistemas pela ETEC Horácio Augusto da Silveira.
-- Cursando 2° Semestre do curso superior de Ciência da Computação pela ENIAC.
+- Cursando 3° Semestre do curso superior de Ciência da Computação pela ENIAC.
 
 ## 📚 Constante Aprendizado
 - Sempre em busca de aprender novas tecnologias e aprofundar meus conhecimentos em linguagens de programação e suas ferramentas.
